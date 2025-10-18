@@ -9,6 +9,7 @@ A minimal yet powerful e-commerce application built with React Native that featu
 
 ## 📋 Table of Contents
 
+- [App Preview](#-app-preview)
 - [Features](#-features)
 - [Technology Stack](#️-technology-stack)
 - [Getting Started](#-getting-started)
@@ -17,6 +18,21 @@ A minimal yet powerful e-commerce application built with React Native that featu
 - [Testing](#-testing)
 - [Trade-offs & Future Improvements](#%EF%B8%8F-trade-offs--future-improvements)
 - [Author](#%E2%80%8D-author)
+
+## 📱 App Preview
+
+### iOS:
+
+|                Login Screen                 |                 Home Screen                 |                Lock Screen                 |
+| :------------------------------------------: | :--------------------------------------------: | :------------------------------------------: |
+| ![Login Screen](/src/assets/images/ios-login.png) | ![Home Screen](/src/assets/images/ios-home.png) | ![Lock Screen](/src/assets/images/ios-lock.png) |
+
+### Android:
+
+|                    Login Screen                    |                    Home Screen                     |                    Lock Screen                    |
+| :-------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------------: |
+| ![Login Screen](/src/assets/images/android-login.png) | ![Home Screen](/src/assets/images/android-home.png) | ![Lock Screen](/src/assets/images/android-lock.png) |
+
 
 ## ✨ Features
 
