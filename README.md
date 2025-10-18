@@ -264,7 +264,6 @@ The app integrates with the following DummyJSON endpoints:
 2. **Technical Improvements**
 
    - 🧪 Increase test coverage to 80%+ (currently focused on critical paths)
-   - 🔄 Implement retry logic for failed API calls
    - ⚡ Performance monitoring and optimization
 
 3. **User Experience**
