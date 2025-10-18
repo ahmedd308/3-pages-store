@@ -279,16 +279,6 @@ The app integrates with the following DummyJSON endpoints:
    - 🚀 CI/CD pipeline with EAS Build
    - 📊 Code quality gates with Husky pre-commit hooks
 
-## 🎯 Acceptance Checklist
-
-- ✅ Login authenticates; token stored/applied; session restored with biometric prompt
-- ✅ App auto-locks after 10s and on background; lock overlay obscures content
-- ✅ Biometric unlock works; password fallback when biometrics unavailable
-- ✅ All Products renders list; pull-to-refresh; offline banner when disconnected
-- ✅ Specific Category renders filtered list (A flatlist is rendered with all categories to chose any category of desire)
-- ✅ Superadmin can delete a product (UI updates; delete is simulated)
-- ✅ React Query cache persists to MMKV and rehydrates on cold start
-
 ## 📄 License
 
 This project is developed as a coding challenge demonstration.
